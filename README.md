@@ -19,6 +19,11 @@ Pivoting long to wide and wide to long in sql wps r and python
               2. wps r sql dynamic
               3. wps python dynamic
 
+              github                                                                                                      
+              https://tinyurl.com/229d8w66                                                                                
+              https://github.com/rogerjdeangelis/utl-pivot-long-pivot-wide-transpose-partitioning-sql-arrays-wps-r-python 
+
+
     /*___ _____     _____ _____   _     ___  _   _  ____
     |  _ \_ _\ \   / / _ \_   _| | |   / _ \| \ | |/ ___|
     | |_) | | \ \ / / | | || |   | |  | | | |  \| | |  _
