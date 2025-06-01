@@ -188,7 +188,7 @@ run;quit;
                  |_|                 |_|          |___/
 */
 
-
+Note Time, timepoit and tp ar the same row variable.
 proc datasets lib=sd1 nolist nodetails;delete pivot_long; run;quit;
 
 %utl_submit_wps64x('
