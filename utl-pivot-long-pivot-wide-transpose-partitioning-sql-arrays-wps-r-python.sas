@@ -39,7 +39,7 @@ PROLEM
 /*                                |                                                                 |                    */
 /*  1  40 40 20 20 10 14 25 24 28 |                                                                 |  1   A1       40   */
 /*  2  50 50 40 40 20 22 30 30 33 | proc sql;                                                       |  1   A2       40   */
-/*  3  60 60 50 50 30 37 41 41 47 |   %do_over(_vr,phrase=%str(put "selest TIMEPOINT`?` as PATIENT  |  1   A3       20   */
+/*  3  60 60 50 50 30 37 41 41 47 |   %do_over(_vr,phrase=%str(put "select TIMEPOINT`?` as PATIENT  |  1   A3       20   */
 /*  4  70 70 60 60 40 45 49 50 51 |    , ? as DOSEAGE from sd1.havFat union corr";));               |  1   B1       20   */
 /*  5  80 80 70 70 50 52 64 63 67 | quit;                                                           |  1   B2       10   */
 /*  6  90 90 80 80 60 65 71 72 72 |                                                                 |  1   B3       14   */
