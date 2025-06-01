@@ -2,6 +2,8 @@
 
 Pivoting long to wide and wide to long in sql wps r and python
 
+Note Time, timepoit and tp ar the same row variable.
+
 Depending on the compiler these solutions may not be slow.
 
      PIVOT LONG
